@@ -1,0 +1,6 @@
+#!/bin/sh
+#feh --bg-scale '/usr/share/wallpapers/slax_wallpaper.jpg' 
+#feh --bg-center /media/sda1/sys/kch--/--carrie-keagan..22069728.listal.jpg 
+feh --bg-fill   /media/sda1/sys/kch--/--carrie-keagan..22069728.listal.jpg 
+#feh --bg-max    /media/sda1/sys/kch--/--carrie-keagan..22069728.listal.jpg 
+#feh --bg-scale  /media/sda1/sys/kch--/--carrie-keagan..22069728.listal.jpg 
