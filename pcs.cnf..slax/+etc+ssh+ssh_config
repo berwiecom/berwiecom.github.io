@@ -1,8 +1,0 @@
-host bwn
-	hostname berwie.com
-	port 		2222 
-	user 		923410
-
-host *
-	port 		2269
-	LogLevel 	verbose	
